@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "spectre.css": "^0.5.9",
     "vue": "^3.2.45"
   },
   "devDependencies": {
